@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#132858"/>
+      <stop offset="1" stop-color="#284cd1"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".09"/>
+    </pattern>
+  </defs>
+  <rect width="640" height="360" fill="url(#background)"/>
+  <rect width="640" height="360" fill="url(#grid)"/>
+  <circle cx="560" cy="50" r="115" fill="#ee5a50" opacity=".8"/>
+  <circle cx="560" cy="50" r="148" fill="none" stroke="#fff" stroke-opacity=".25"/>
+  <circle cx="320" cy="166" r="42" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".8"/>
+  <path d="M312 150v32l25-16z" fill="#fff"/>
+  <text x="320" y="249" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="bold" letter-spacing="3" text-anchor="middle">WATCH THE FILM</text>
+  <text x="26" y="335" fill="#fff" fill-opacity=".65" font-family="Arial, sans-serif" font-size="10" letter-spacing="2">OLUWASOLA BABATUNDE / VIDEO WORK</text>
+</svg>
